@@ -28,4 +28,8 @@ GTK Glade C Programming Study Step by Step
 
 #### sample02
 
-TODO:
+[GTK+ 3 Glade C Programming Template Files] https://prognotes.net/2015/07/gtk-3-glade-c-programming-template/
+
+Build guide:
+
+    $ make
