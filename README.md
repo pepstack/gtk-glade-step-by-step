@@ -42,4 +42,10 @@ Build guide:
 
     $ make
 
+#### sample04
 
+To install Vala on 64-bit (32-bit uses 'i686' than 'x86_64')  Windows (mingw):
+
+	$ pacman -S mingw-w64-x86_64-gcc 
+	$ pacman -S mingw-w64-x86_64-pkg-config
+	$ pacman -S mingw-w64-x86_64-vala
